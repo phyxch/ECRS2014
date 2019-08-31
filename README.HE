@@ -1,0 +1,8 @@
+5/29/2014: hexc, Olesya
+We started modifying this code for using the newest Geant4 release 
+(4.9.6 or above).
+
+
+7/14/2011: I am committing a modified version of the ECRS code into our local cvs repository. Because of a unigue implementation of the geomagnetic field, I have to commit a library (in the lib subdirectory) file too. It was compiled on my MacBook. This is certainly not the right way to use cvs. One has to compile this library (in magnetocosmics/fortran area) anyway on the machine for compiling the Geant4 code.
+
+This package is NOT well written and needs significant modification!

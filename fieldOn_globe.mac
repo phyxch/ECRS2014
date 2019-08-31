@@ -1,0 +1,8 @@
+/ECRS/BFIELD/SetGeomagneticFieldModel IGRF
+/ECRS/BFIELD/SetExternalFieldModel TSY2001
+/geometry/externalMag true
+/gun/cosmicRay on
+#/gun/SetPosition 1.2 re 0 0 deg 
+#/gun/RigidityCut 10
+/run/beamOn 1
+exit
