@@ -1,0 +1,13 @@
+/vis/scene/create
+/vis/open OGLIX
+/vis/scene/add/volume
+/vis/sceneHandler/attach
+/vis/viewer/flush
+/vis/viewer/set/viewpointThetaPhi 92 90
+/vis/viewer/zoom 700
+/vis/viewer/panTo  -1 6360000
+/tracking/storeTrajectory 1
+/event/drawTracks charged
+/gun/particle proton
+/gun/KE 50 GeV
+/run/beamOn 1
